@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hansdhwong@gmail.com**
 
-- ⚡ Fun fact **I often experience a fluctuation between feelings of superiority and imposter syndrome**
+- ⚡ Fun fact **I am the most creative during midnight**
 
 <p align="left">
 </p>
