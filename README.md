@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hans Wong</h1>
 <h3 align="center">A 42 Malaysia Cadet and a passionate developer from Malaysia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanswongdh&label=Profile%20views&color=0e75b6&style=flat" alt="hanswongdh" /> </p>
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=hanswongdh&style=for-the-badge"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanswongdh&theme=nord" alt="hanswongdh" /></a> </p>
 
