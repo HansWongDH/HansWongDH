@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanswongdh&theme=nord" alt="hanswongdh" /></a> </p>
 
-- 🌱 I’m currently learning **java and google guice**
 
-- 💬 Ask me about **C, C++, and Typescript**
+- 💬 Ask me about **C, C++, Java and Typescript**
 
 - 📫 How to reach me **hansdhwong@gmail.com**
 
